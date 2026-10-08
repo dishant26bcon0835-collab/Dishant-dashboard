@@ -1,0 +1,6 @@
+JSON
+{
+"rewrite"[
+ {"source";"/(.*),"destination";
+]
+}
